@@ -19,9 +19,9 @@ Anaconda enviroment recommended
 <br />
 Individual modules:
 
-NumPy      `pip install numpy`
-Scipy      `pip install scipy`
-Matplotlib `pip install matplotlib`
+NumPy      `pip install numpy`<br />
+Scipy         `pip install scipy`<br />
+Matplotlib `pip install matplotlib`<br />
 komm       `pip install komm`
 
 ## Installation
