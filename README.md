@@ -30,4 +30,4 @@ Clone the repository
 `git clone https://github.com/prateeksd/pyComm`
 
 ## Acknowledgement
-This project was part of the course Digital Communication 4, taught by [dchutchings](https://github.com/dchutchings) of University of Glasgow
+This project was part of the course Digital Communication, taught by [dchutchings](https://github.com/dchutchings) of University of Glasgow
