@@ -8,7 +8,7 @@
 Digital communication simulation in Python.
 
 ### Features
-* Modulation Schemes: BPSK, QPSK, 4-QAM, 16-QAM, 256-QAM
+* #### Modulation Schemes: BPSK, QPSK, 4-QAM, 16-QAM, 256-QAM
 * Parity check and ARQs
 * Forward Error Correction: Block codes, Convolutional Codes
 * Differential Coding
