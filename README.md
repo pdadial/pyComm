@@ -10,7 +10,7 @@ Digital communication simulation in Python.
 
 ### Features
 * #### Modulation Schemes: BPSK, QPSK, 4-QAM, 16-QAM, 256-QAM
-  * Simulation of transmission and reception over a noisy (AWGN) channel for signal-to-noise ratio in range 0 to 9dB.
+  * Simulation of transmission and reception over a noisy (AWGN) channel with signal-to-noise ratio from 0 to 9dB.
   * Perform parity test at the receiver. If the received data is different from parity setting at the transmitter do an automatic-repeat-request and retransmit the word.
   * Determine bit error rate and the ratio of the total number of ARQs to the number of pixels.
   * Plot an I-Q constellation diagram.
