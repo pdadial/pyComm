@@ -25,7 +25,7 @@ class ModScheme:
             
         if x == '4-QAM':
             k = 2
-            obj = komm.QAModulation(4, base_amplitudes=1/np.sqrt(2.))
+            obj = komm.QAModulation(4, base_amplitudes=1/np.sqrt(2.)) # base_amplitudes is set to a value such that obj.energy_per_symbol becomes unity.
             
         if x == '16-QAM':
             k = 4
