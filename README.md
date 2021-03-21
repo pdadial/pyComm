@@ -36,7 +36,7 @@ Clone the repository
 
 ## Usage
 * #### Modulation Schemes
-       Run sim_mod.py specifing one modulation schemes: `BPSK`, `QPSK`, `4-QAM`, `16-QAM`, `256-QAM`
+       Run sim_mod.py specifing one of the modulation schemes: `BPSK`, `QPSK`, `4-QAM`, `16-QAM`, `256-QAM`
        <br />
        `python sim_mod.py --scheme QPSK`
 
