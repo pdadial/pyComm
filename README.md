@@ -32,7 +32,7 @@ komm       `pip install komm`
 ## Installation
 Clone the repository
 <br />
-`git clone https://github.com/prateeksd/pyComm`
+`git clone https://github.com/pdadial/pyComm.git`
 
 ## Usage
 * #### Modulation Schemes
