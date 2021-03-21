@@ -13,7 +13,7 @@ Digital communication simulation in Python.
   * Simulation of transmission and reception over a noisy (AWGN) channel.
   * Perform parity test at the receiver. If the received data is different from parity setting at the transmitter do an automatic-repeat-request and retransmit the word.
   * Determine bit error rate and the ratio of the total number of ARQs to the number of pixels.
-  * Plot an n I-Q constellation diagram.
+  * Plot an I-Q constellation diagram.
 * Forward Error Correction: Block codes, Convolutional Codes
 * Differential Coding
 * Costas Loop
@@ -35,7 +35,8 @@ Clone the repository
 
 ## Usage
 * #### Modulation Schemes
-       Run sim_mod.py specifing one modulation scheme `BPSK``QPSK``4-QAM``16-QAM``256-QAM`
+       Run sim_mod.py specifing one modulation scheme `BPSK` `QPSK` `4-QAM` `16-QAM` `256-QAM`
+       <br />
        `python sim_mod.py --scheme QPSK`
 
 ## Acknowledgement
