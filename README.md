@@ -53,9 +53,16 @@ Clone the repository
 
 ## Usage
 * #### Modulation Schemes
-       Run sim_mod.py specifing one of the modulation schemes: `BPSK`, `QPSK`, `4-QAM`, `16-QAM`, `256-QAM`
-       <br />
-       `python sim_mod.py --scheme QPSK`
+  * Run sim_mod.py specifing one of the modulation schemes: `BPSK`, `QPSK`, `4-QAM`, `16-QAM`, `256-QAM`
+    <br />
+    `python sim_mod.py --scheme QPSK`
+* #### Forward Error Correction
+  * Run bch_codes.py specifing `-m` and `-t` values for corresponding (n,k) BCH code.
+    <br />
+    `python bch_codes.py -m 3 -t 1`
+  * Run conv_codes.py specifing decoding decision method (soft/hard).
+    <br />
+    `python conv_codes.py -d soft`
 
 ## Acknowledgement
 This project was part of the course Digital Communication, taught by [dchutchings](https://github.com/dchutchings) of University of Glasgow
