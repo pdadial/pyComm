@@ -33,7 +33,7 @@ Digital communication simulation in Python.
   * BPSK modulation/demodulation.
   * Carrier Recovery using Costas Loop.
   * Implement differential coding to deal with any ambiguity in the recovered data.
-![alt text](https://github.com/pdadial/pyComm/blob/main/images/conv%20encoder.png "rate 1/2 convolutional encoder")
+![alt text](https://github.com/pdadial/pyComm/blob/main/images/costas%20loop.png "classical costas loop")
 
 ## Prerequisites
 Anaconda enviroment recommended
