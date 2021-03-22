@@ -24,7 +24,7 @@ Digital communication simulation in Python.
     |3  |7  |4  |1  |
     |4  |15 |5  |3  |
     |5  |31 |6  |7  |
-    |6  |63 |6  |11 |
+    |6  |63 |16 |11 |
   * Coding and decoding using convolutional code using soft(or)hard decoding.
 
 ![alt text](https://github.com/pdadial/pyComm/blob/main/images/conv%20encoder.png "rate 1/2 convolutional encoder")
