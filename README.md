@@ -16,6 +16,7 @@ Digital communication simulation in Python.
   * Plot I-Q constellation diagram.
 * #### Forward Error Correction: BCH code, Convolutional Code
   * Simulation over a noisy channel using QPSK.
+  * Determine bit error rate.
   * Coding and decoding using (n,k) BCH codes.
 
     |m  |n  |k  |t  |
@@ -24,9 +25,15 @@ Digital communication simulation in Python.
     |4  |15 |5  |3  |
     |5  |31 |6  |7  |
     |6  |63 |6  |11 |
-  * Coding and decoding using convolutional code.
-* Differential Coding
-* Costas Loop
+  * Coding and decoding using convolutional code using soft(or)hard decoding.
+
+![alt text](https://github.com/pdadial/pyComm/blob/main/images/conv%20encoder.png "rate 1/2 convolutional encoder")
+* #### Differential Coding
+* #### Costas Loop
+  * BPSK modulation/demodulation.
+  * Carrier Recovery using Costas Loop.
+  * Implement differential coding to deal with any ambiguity in the recovered data.
+![alt text](https://github.com/pdadial/pyComm/blob/main/images/conv%20encoder.png "rate 1/2 convolutional encoder")
 
 ## Prerequisites
 Anaconda enviroment recommended
