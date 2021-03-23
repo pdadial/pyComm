@@ -30,9 +30,8 @@ Digital communication simulation in Python.
 ![alt text](https://github.com/pdadial/pyComm/blob/main/images/costas_loop.png "classical costas loop")
 
 ## Prerequisites
+`pip install komm`<br />
 Anaconda enviroment recommended
-<br />
-komm       `pip install komm`
 
 ## Installation
 Clone the repository
