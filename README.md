@@ -32,11 +32,6 @@ Digital communication simulation in Python.
 ## Prerequisites
 Anaconda enviroment recommended
 <br />
-Individual modules:
-
-NumPy      `pip install numpy`<br />
-Scipy         `pip install scipy`<br />
-Matplotlib `pip install matplotlib`<br />
 komm       `pip install komm`
 
 ## Installation
