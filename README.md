@@ -1,10 +1,3 @@
-## Table of contents
-* [General info](#general-info)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Acknowledgement](#acknowledgement)
-
 ## General info
 Digital communication simulation in Python.
 
