@@ -34,8 +34,6 @@ Digital communication simulation in Python.
 Anaconda enviroment recommended
 
 ## Installation
-Clone the repository
-<br />
 `git clone https://github.com/pdadial/pyComm.git`
 
 ## Usage
